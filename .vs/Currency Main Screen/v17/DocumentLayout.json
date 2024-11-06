@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058E7955-AD45-4253-9D27-1EAFAA83383D}|Currency Main Screen.vcxproj|D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{058E7955-AD45-4253-9D27-1EAFAA83383D}|Currency Main Screen.vcxproj|solutionrelative:clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E7955-AD45-4253-9D27-1EAFAA83383D}|Currency Main Screen.vcxproj|D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\Currency Main Screen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{058E7955-AD45-4253-9D27-1EAFAA83383D}|Currency Main Screen.vcxproj|solutionrelative:Currency Main Screen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "clsInputValidate.h",
+              "ToolTip": "D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\clsInputValidate.h",
+              "RelativeToolTip": "clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-19T10:06:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Currency Main Screen.cpp",
+              "DocumentMoniker": "D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\Currency Main Screen.cpp",
+              "RelativeDocumentMoniker": "Currency Main Screen.cpp",
+              "ToolTip": "D:\\Documents\\Programming advice\\3- Level 11 OOP\\Currency Main Screen\\Currency Main Screen.cpp",
+              "RelativeToolTip": "Currency Main Screen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:47:29.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

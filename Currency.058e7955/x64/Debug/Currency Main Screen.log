@@ -1,0 +1,41 @@
+﻿  Currency Main Screen.cpp
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(53,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(321,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(368,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsString.h(537,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsUser.h(193,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+      D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsUser.h(24,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsBankClient.h(245,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+      D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsBankClient.h(19,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsTotalBalanceScreen.h(54,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Main%20Screen.cpp')
+  
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsBankClient.h(357,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\clsUser.h(352,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Currency Main Screen.vcxproj -> D:\Documents\Programming advice\3- Level 11 OOP\Currency Main Screen\x64\Debug\Currency Main Screen.exe
