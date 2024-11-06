@@ -33,6 +33,12 @@ Withdraw: Deduct funds from the user’s account after validation checks.
 Deposit: Increase the user's balance by adding funds.
 Check Total Balance: Display the current balance for an account.
 Transfer Money: Transfer funds securely between accounts with built-in checks for sufficient balance and permissions.
+### e. Currency Exchange Feature
+Exchange Currencies: Users can exchange between multiple supported currencies.
+Preset Exchange Rates: The system includes preset exchange rates, which can be updated regularly by the administrator.
+Live Exchange Rates: Optionally, exchange rates can be fetched from an external source (if connected to an API).
+User Balance Updates: After each currency exchange transaction, the user’s balance is updated in the selected currency.
+Transaction Logging: Each exchange transaction is logged for auditing purposes.
 ## 3. Security and Permissions ✔️
 Bitwise Permissions: The system leverages bitwise operations to apply and verify permissions across all features. This ensures that each user only has access to the parts of the system relevant to their role (e.g., administrators vs. regular users).
 System Protection: The permission system helps protect the bank’s data by preventing unauthorized users from accessing or modifying sensitive information.
