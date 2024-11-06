@@ -1,5 +1,4 @@
 # Bank-System
-### OOP C++ 💫
 # Overview of a C++ Bank System Using OOP
 ## 1. System Login and Security
 Login Feature: The system includes a secure login mechanism that allows a maximum of 3 attempts. After the third failed attempt, the system is locked to prevent unauthorized access.
