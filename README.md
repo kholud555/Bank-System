@@ -1,10 +1,10 @@
 # Bank-System
-# Overview of a C++ Bank System Using OOP
-## 1. System Login and Security
-Login Feature: The system includes a secure login mechanism that allows a maximum of 3 attempts. After the third failed attempt, the system is locked to prevent unauthorized access.
+# Overview of a C++ Bank System Using OOP 📑
+## 1. System Login and Security 🔐
+##Login Feature: The system includes a secure login mechanism that allows a maximum of 3 attempts. After the third failed attempt, the system is locked to prevent unauthorized access.
 User Registration Details: When a user registers, their username and the time of registration are recorded in the system for tracking and auditing purposes.
 Permissions System: A bitwise permission system ensures security and control access for different operations, allowing role-based access to features.
-## 2. Menus and Functionalities
+## 2. Menus and Functionalities 🌟
 ### a. Main Menu
 The main menu provides access to all the key features of the system, including:
 
@@ -33,7 +33,7 @@ Withdraw: Deduct funds from the user’s account after validation checks.
 Deposit: Increase the user's balance by adding funds.
 Check Total Balance: Display the current balance for an account.
 Transfer Money: Transfer funds securely between accounts with built-in checks for sufficient balance and permissions.
-## 3. Security and Permissions
+## 3. Security and Permissions ✔️
 Bitwise Permissions: The system leverages bitwise operations to apply and verify permissions across all features. This ensures that each user only has access to the parts of the system relevant to their role (e.g., administrators vs. regular users).
 System Protection: The permission system helps protect the bank’s data by preventing unauthorized users from accessing or modifying sensitive information.
 ## 4. Additional Details
